@@ -1,0 +1,55 @@
+.buttons{
+ 
+  display: inline-flex;
+  flex-direction: column;
+  align-content: center;
+}
+.title{
+    
+  font-family: papyrus;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+  margin:auto;
+  text-decoration: underline;
+  color: rgb(35, 185, 173);
+  margin-top: 10px;
+}
+body{
+    background-color: black;
+    border: dotted;
+    border-color:rgb(35, 185, 173);
+}
+.click{
+    background-color: rgb(255, 156, 119);
+    font-family: papyrus;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-size: 20px;
+    margin: auto;
+   text-align: center;
+ 
+}
+.click:hover{
+    color: rgb(35, 185, 173);
+}
+.levels{
+    color: rgb(35, 185, 173);
+    font-size: 30px;
+    font-family: papyrus;
+    font-weight: bolder;
+    margin: auto;
+    margin-top: 40px;
+    line-height: 3;
+}
+.allcontent{
+    display: flex;
+    justify-content: left;
+    margin: auto; 
+}
+.img{
+   
+}
+#hungerInfo{
+
+}
